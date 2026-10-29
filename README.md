@@ -25,7 +25,7 @@ Releasesのページにある配布用ZIPファイルをダウンロードして
 
 ## インストール・使い方
 
-詳しい手順は、[インストールガイド（HTML）](./AsumiBrowser_Install_Guide_v10.html)をご覧ください。
+詳しい手順は、[インストールガイド（HTML）](https://testy357.github.io/AsumiBrowser/AsumiBrowser_Install_Guide_v10.html)をご覧ください。
 
 ## お知らせ・お問い合わせ
 
